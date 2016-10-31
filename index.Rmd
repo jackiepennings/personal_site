@@ -2,4 +2,4 @@
 title: "Jackie's Website"
 ---
 
-Hello, World!
+Welcome to my website. I am just beginning to work on the site so please bear with me!

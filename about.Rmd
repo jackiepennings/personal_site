@@ -2,4 +2,4 @@
 title: "About Me"
 ---
 
-Why I am awesome. 
+I am a biostatistician at Vanderbilt University Medical Center. I live in Nashville, TN. I have a Ph.D. in Quantitative Psychology from Texas Christian University.
