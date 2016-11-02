@@ -5,4 +5,5 @@
 setwd("~/Desktop/Personal/personal_site")
 
 #render your sweet site. 
+library("rmarkdown")
 rmarkdown::render_site()

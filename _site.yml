@@ -5,5 +5,13 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Curriculum Vitae"
+      href: cv.html
     - text: "About Me"
       href: about.html
+
+
+output:
+  html_document:
+    theme: flatly
+    css: style.css
