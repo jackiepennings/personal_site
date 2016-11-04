@@ -2,5 +2,6 @@
 title: "Curriculum Vitae"
 ---
 
-![](pennings_vita_oct2016.pdf)
-
+<!--html_preserve-->
+<iframe src="https://docs.google.com/gview?url=https://github.com/jackiepennings/personal_site/raw/master/pennings_vita_oct2016.pdf?dl=1&embedded=true" style="width:100%; height:700px;" frameborder="0"></iframe>
+<!--/html_preserve-->
