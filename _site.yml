@@ -5,10 +5,11 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "About Me"
+      href: about.html    
     - text: "Curriculum Vitae"
       href: cv.html
-    - text: "About Me"
-      href: about.html
+
 
 
 output:
