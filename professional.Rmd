@@ -11,7 +11,6 @@ I am accredited as a Accredited Professional Statistician by the American Statis
 I am currently a biostatistician at Vanderbilt University Medical Center. I also do statistical consulting work for Elite Research.
 
 ###Dissertation
-
 ![](Dissplot.png)  
 My dissertation in a wordcloud. *The Effects of a Touch Intervention on Nurturing Touch, Family Functioning, and Child Behavior*
   
