@@ -5,10 +5,10 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Grant Writing & Publications"
-      href: grantspubs.html
     - text: "Bio"
       href: professional.html
+    - text: "Grant Writing & Publications"
+      href: grantspubs.html
     - text: "Curriculum Vitae"
       href: cv.html
     - text: "About Me"
