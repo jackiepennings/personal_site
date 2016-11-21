@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/sandstone.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<link rel="stylesheet"
+      href="site_libs/highlight/default.css"
+      type="text/css" />
+<script src="site_libs/highlight/highlight.js"></script>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 61px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+
+.section h2 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.section h3 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.section h4 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.section h5 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.section h6 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.9em;
+  padding-left: 5px;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Jackie Pennings</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="grantspubs.html">Grant Writing &amp; Publications</a>
+</li>
+<li>
+  <a href="professional.html">Bio</a>
+</li>
+<li>
+  <a href="cv.html">Curriculum Vitae</a>
+</li>
+<li>
+  <a href="about.html">About Me</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<div id="grant-writing-experience" class="section level1">
+<h1>Grant Writing Experience</h1>
+<p><strong><span style="color:#04B4AE">2016</span></strong></p>
+<div id="national-science-foundation-sbe-postdoctoral-research-fellowships-sprf" class="section level4">
+<h4>National Science Foundation: SBE Postdoctoral Research Fellowships (SPRF)</h4>
+<blockquote>
+<h6 id="the-directorate-for-social-behavioral-and-economic-sciences-sbe-offers-postdoctoral-research-fellowships-to-encourage-independence-early-in-the-fellows-career-through-supporting-his-or-her-research-and-training-goals.-the-research-and-training-plan-of-each-fellowship-must-address-important-scientific-questions-within-the-scope-of-the-sbe-directorate-and-the-specific-guidelines-in-this-fellowship-solicitation.-the-sprf-program-offers-two-tracks-i-fundamental-research-in-the-sbe-sciences-sprf-fr-and-ii-broadening-participation-in-the-sbe-sciences-sprf-bp.-see-the-full-text-of-the-solicitation-for-a-detailed-description-of-these-tracks.">The Directorate for Social, Behavioral and Economic Sciences (SBE) offers Postdoctoral Research Fellowships to encourage independence early in the Fellow’s career through supporting his or her research and training goals. The research and training plan of each fellowship must address important scientific questions within the scope of the SBE Directorate and the specific guidelines in this fellowship solicitation. The SPRF program offers two tracks: (I) Fundamental Research in the SBE Sciences (SPRF-FR) and (II) Broadening Participation in the SBE Sciences (SPRF-BP). See the full text of the solicitation for a detailed description of these tracks.</h6>
+<h5 id="written-approach-section">Written: Approach Section</h5>
+</blockquote>
+</div>
+<div id="mn-department-of-health-researcher-for-retrospective-medical-record-review-project" class="section level4">
+<h4>MN Department of Health: Researcher for Retrospective Medical Record Review Project</h4>
+<blockquote>
+<h6 id="the-minnesota-department-of-health-through-its-community-and-family-health-division-state-is-seeking-proposals-from-qualified-responders-to-design-implement-and-draft-a-report-for-a-medical-record-review-project.-this-project-will-be-led-by-the-maternal-and-child-health-section-and-will-take-place-from-july-1-2016-to-december-15-2016.">The Minnesota Department of Health, through its Community and Family Health Division (State), is seeking proposals from qualified responders to design, implement, and draft a report for a medical record review project. This project will be led by the Maternal and Child Health Section and will take place from July 1, 2016 to December 15, 2016.</h6>
+<h5 id="written-entire-proposal">Written: Entire Proposal</h5>
+</blockquote>
+<p><strong><span style="color:#04B4AE">2015</span></strong></p>
+</div>
+<div id="department-of-education-investing-in-innovation-fund-i3" class="section level4">
+<h4>Department of Education: Investing in Innovation Fund (i3)</h4>
+<blockquote>
+<h6 id="the-investing-in-innovation-fund-established-under-section-14007-of-the-american-recovery-and-reinvestment-act-of-2009-arra-provides-funding-to-support-1-local-educational-agencies-leas-and-2-nonprofit-organizations-in-partnership-with-a-one-or-more-leas-or-b-a-consortium-of-schools.-the-purpose-of-this-program-is-to-provide-competitive-grants-to-applicants-with-a-record-of-improving-student-achievement-and-attainment-in-order-to-expand-the-implementation-of-and-investment-in-innovative-practices-that-are-demonstrated-to-have-an-impact-on-improving-student-achievement-or-student-growth-closing-achievement-gaps-decreasing-dropout-rates-increasing-high-school-graduation-rates-or-increasing-college-enrollment-and-completion-rates.-these-grants-will-1-allow-eligible-entities-to-expand-and-develop-innovative-practices-that-can-serve-as-models-of-best-practices-2-allow-eligible-entities-to-work-in-partnership-with-the-private-sector-and-the-philanthropic-community-and-3-identify-and-document-best-practices-that-can-be-shared-and-taken-to-scale-based-on-demonstrated-success.">The Investing in Innovation Fund, established under section 14007 of the American Recovery and Reinvestment Act of 2009 (ARRA), provides funding to support (1) local educational agencies (LEAs) and (2) nonprofit organizations in partnership with (a) one or more LEAs or (b) a consortium of schools. The purpose of this program is to provide competitive grants to applicants with a record of improving student achievement and attainment in order to expand the implementation of, and investment in, innovative practices that are demonstrated to have an impact on improving student achievement or student growth, closing achievement gaps, decreasing dropout rates, increasing high school graduation rates, or increasing college enrollment and completion rates. These grants will (1) allow eligible entities to expand and develop innovative practices that can serve as models of best practices, (2) allow eligible entities to work in partnership with the private sector and the philanthropic community, and (3) identify and document best practices that can be shared and taken to scale based on demonstrated success.</h6>
+<h5 id="title-lets-inspire-innovation-n-kids">Title: Let’s inspire Innovation ’N Kids</h5>
+<h5 id="written-logic-model-quality-of-project-evaluation">Written: Logic Model, Quality of Project Evaluation</h5>
+</blockquote>
+</div>
+<div id="nih-research-project-grant-r01" class="section level4">
+<h4>NIH: Research Project Grant R01</h4>
+<blockquote>
+<h6 id="social-psychology-personality-and-interpersonal-processes-study-section-the-research-project-grant-r01-supports-a-discrete-specified-circumscribed-project-to-be-performed-by-the-named-investigators-in-areas-representing-the-specific-interests-and-competencies-of-the-investigators.-the-proposed-project-must-be-related-to-the-programmatic-interests-of-one-or-more-of-the-participating-nih-institutes-and-centers-ics-based-on-descriptions-of-their-programs.">Social Psychology, Personality and Interpersonal Processes Study Section: The Research Project Grant (R01) supports a discrete, specified, circumscribed project to be performed by the named investigator(s) in areas representing the specific interests and competencies of the investigator(s). The proposed project must be related to the programmatic interests of one or more of the participating NIH Institutes and Centers (ICs) based on descriptions of their programs.</h6>
+<h5 id="title-explaining-and-improving-child-function-following-domestic-violence">Title: Explaining and Improving Child Function Following Domestic Violence</h5>
+<h5 id="written-specific-aims-approach">Written: Specific Aims, Approach</h5>
+</blockquote>
+<p><strong><span style="color:#04B4AE">2014</span></strong></p>
+</div>
+<div id="agency-for-healthcare-research-and-quality-ahrq-exploratory-and-developmental-grant-to-improve-health-care-quality-through-health-information-technology-r21" class="section level4">
+<h4>Agency for Healthcare Research and Quality (AHRQ): Exploratory and Developmental Grant to Improve Health Care Quality through Health Information Technology (R21)</h4>
+<blockquote>
+<h6 id="the-purpose-of-this-funding-opportunity-announcement-foa-is-to-fund-exploratory-and-developmental-research-grants-that-will-contribute-to-the-evidence-base-of-how-health-it-improves-health-care-quality.-this-foa-supports-the-use-of-a-wide-variety-of-research-designs-in-order-to-generate-information-regarding-the-design-and-development-implementation-use-or-impact-of-health-it-on-quality.-depending-on-the-research-design-and-intent-of-the-project-applicants-may-receive-support-for-1-pilot-and-feasibility-or-self-contained-health-it-research-projects-2-secondary-data-analysis-of-health-it-research-or-3-economic-prospective-or-retrospective-analyses-of-a-health-it-project.">The purpose of this Funding Opportunity Announcement (FOA) is to fund exploratory and developmental research grants that will contribute to the evidence base of how health IT improves health care quality. This FOA supports the use of a wide variety of research designs in order to generate information regarding the design and development, implementation, use, or impact of health IT on quality. Depending on the research design and intent of the project, applicants may receive support for: (1) pilot and feasibility or self-contained health IT research projects; (2) secondary data analysis of health IT research; or (3) economic (prospective or retrospective) analyses of a health IT project.</h6>
+<h5 id="title-comparison-of-previous-and-current-clinical-decision-support-systems-on-clinical-outcomes-hospital-readmissions-and-cost">Title: Comparison of Previous and Current Clinical Decision Support Systems on Clinical Outcomes, Hospital Readmissions, and Cost</h5>
+<h5 id="written-research-plan-project-summary-project-narrative">Written: Research Plan, Project Summary, Project Narrative</h5>
+</blockquote>
+</div>
+<div id="u.s.-department-of-education-84.116f-first-in-the-world-program---development-grants" class="section level4">
+<h4>U.S. Department of Education (84.116F): First in the World Program - Development Grants</h4>
+<blockquote>
+<h6 id="program-description-the-fitw-program-is-designed-to-support-the-development-replication-and-dissemination-of-innovative-solutions-and-evidence-for-what-works-in-addressing-persistent-and-widespread-challenges-in-postsecondary-education-for-students-who-are-at-risk-for-not-persisting-in-and-completing-postsecondary-programs-including-but-not-limited-to-adult-learners-working-students-part-time-students-students-from-low-income-backgrounds-students-of-color-students-with-disabilities-and-first-generation-students.">Program Description: The FITW program is designed to support the development, replication, and dissemination of innovative solutions and evidence for what works in addressing persistent and widespread challenges in postsecondary education for students who are at risk for not persisting in and completing postsecondary programs, including, but not limited to, adult learners, working students, part-time students, students from low-income backgrounds, students of color, students with disabilities, and first-generation students.</h6>
+<h5 id="title-cougar-path-for-stem-at-university-name-starting-early-for-progress">Title: Cougar Path for STEM at [University Name]: Starting Early for Progress</h5>
+<h5 id="written-project-evaluation">Written: Project Evaluation</h5>
+</blockquote>
+</div>
+<div id="u.s.-department-of-education-cfda-number-84.351c---professional-development-for-arts-educators-grant-program-pdae" class="section level4">
+<h4>U.S. Department of Education (CFDA Number: 84.351C) - Professional Development for Arts Educators Grant program (PDAE)</h4>
+<blockquote>
+<h6 id="purpose-of-program-the-professional-development-for-arts-educators-pdae-program-supports-the-implementation-of-high-quality-model-professional-development-programs-in-elementary-and-secondary-education-for-music-dance-drama-media-arts-or-visual-arts-including-folk-arts-for-educators-and-other-arts-instructional-staff-of-kindergarten-through-grade-12-k-12-students-in-high-poverty-schools.-the-purpose-of-this-program-is-to-strengthen-standards-based-arts-education-programs-and-to-help-ensure-that-all-students-meet-challenging-state-academic-content-standards-and-challenging-state-student-academic-achievement-standards-in-the-arts.">Purpose of Program: The Professional Development for Arts Educators (PDAE) program supports the implementation of high-quality model professional development programs in elementary and secondary education for music, dance, drama, media arts, or visual arts, including folk arts, for educators and other arts instructional staff of kindergarten through grade 12 (K-12) students in high poverty schools. The purpose of this program is to strengthen standards-based arts education programs and to help ensure that all students meet challenging State academic content standards and challenging State student academic achievement standards in the arts.</h6>
+<h5 id="title-preparing-rural-broad-field-teachers-as-community-bricoleurs-rationale-for-human-subjects-exemption">Title: Preparing Rural Broad-field Teachers as Community Bricoleurs Rationale for Human Subjects Exemption</h5>
+<h5 id="written-project-evaluation-1">Written: Project Evaluation</h5>
+</blockquote>
+<p><strong><span style="color:#04B4AE">2013</span></strong></p>
+</div>
+<div id="nimh-limited-competition-rfa-md-13-005-revision-applications-for-basic-social-and-behavioral-research-on-the-social-cultural-biological-and-psychological-mechanisms-of-stigma-r01" class="section level4">
+<h4>NIMH Limited Competition (RFA-MD-13-005): Revision Applications for Basic Social and Behavioral Research on the Social, Cultural, Biological, and Psychological Mechanisms of Stigma (R01)</h4>
+<blockquote>
+<h6 id="this-funding-opportunity-announcement-foa-issued-as-part-of-the-nih-basic-behavioral-and-social-sciences-opportunity-network-oppnet-encourages-revision-applications-to-incorporate-basic-research-on-behavioral-and-social-mechanisms-underlying-stigma-into-active-r01-research-projects.-for-this-initiative-projects-may-focus-on-stigma-processes-and-mechanisms-from-the-perspective-of-stigmatized-individuals-or-groups-andor-of-individuals-or-groups-holding-stigmatizing-beliefs.-projects-may-examine-stigma-in-the-context-of-specific-health-conditions-however-the-focus-of-the-work-must-be-on-the-underlying-mechanisms-of-stigma-ra-than-on-condition-specific-manifestations-of-stigma.">This Funding Opportunity Announcement (FOA), issued as part of the NIH Basic Behavioral and Social Sciences Opportunity Network (OppNet), encourages revision applications to incorporate basic research on behavioral and social mechanisms underlying stigma into active R01 research projects. For this initiative, projects may focus on stigma processes and mechanisms from the perspective of stigmatized individuals or groups and/or of individuals or groups holding stigmatizing beliefs. Projects may examine stigma in the context of specific health conditions; however, the focus of the work must be on the underlying mechanisms of stigma ra than on condition-specific manifestations of stigma.</h6>
+<h5 id="title-a-school-based-intervention-to-reduce-stigma-and-promote-mental-health-service-use">Title: A School-Based Intervention to Reduce Stigma and Promote Mental-Health Service Use</h5>
+<h5 id="written-analysis-plan">Written: Analysis Plan</h5>
+</blockquote>
+</div>
+<div id="wounded-warrior-program-evaluation-of-wounded-warriors-track-program" class="section level4">
+<h4>Wounded Warrior Program: Evaluation of Wounded Warriors TRACK Program</h4>
+<blockquote>
+<h6 id="the-wounded-warrior-project-wwp-wants-to-know-more-about-the-effectiveness-of-its-track-program.-the-wwp-is-specifically-interested-in-its-staff-and-participants-views-of-the-program.">The Wounded Warrior Project (WWP) wants to know more about the effectiveness of its TRACK program. The WWP is specifically interested in its staff and participants’ views of the program.</h6>
+<h5 id="written-entire-proposal-1">Written: Entire Proposal</h5>
+</blockquote>
+<p><strong><span style="color:#04B4AE">2012</span></strong></p>
+</div>
+<div id="american-educational-research-association-aera-dissertation-grant" class="section level4">
+<h4>American Educational Research Association (AERA): Dissertation Grant</h4>
+<blockquote>
+<h6 id="with-support-from-the-national-science-foundation-nsf-the-aera-grants-program-announces-its-dissertation-grants-competition.-the-program-seeks-to-stimulate-research-on-u.s.-education-issues-using-data-from-the-large-scale-national-and-international-data-sets-supported-by-the-national-center-for-education-statistics-nces-nsf-and-other-federal-agencies-and-to-increase-the-number-of-education-researchers-using-these-data-sets.-the-program-supports-research-projects-that-are-quantitative-in-nature-include-the-analysis-of-existing-data-from-nces-nsf-or-other-federal-agencies-and-have-u.s.-education-policy-relevance.">With support from the National Science Foundation (NSF), the AERA Grants Program announces its Dissertation Grants competition. The program seeks to stimulate research on U.S. education issues using data from the large? scale, national and international data sets supported by the National Center for Education Statistics (NCES), NSF, and other federal agencies, and to increase the number of education researchers using these data sets. The program supports research projects that are quantitative in nature, include the analysis of existing data from NCES, NSF or other federal agencies, and have U.S. education policy relevance.</h6>
+<h5 id="written-statistics-variables-sections">Written: Statistics &amp; Variables sections</h5>
+</blockquote>
+<p>
+</br>
+</p>
+</div>
+</div>
+<div id="publications" class="section level1">
+<h1>Publications</h1>
+<ol style="list-style-type: decimal">
+<li><p>Rus, A., Stativa, E., Butterfield, M., <strong>Pennings, J.</strong>, Parris, S., Burcea, G., Wenyika, R. (In press). Peer Exploitation: Findings from a Romanian Nationally Representative Sample of Children Living in Long-Term Residential Centres. Child Abuse Review. Accepted for publication Oct. 11, 2016.</p></li>
+<li><p>Rhea, D.J., Rivchun, A.P., &amp; <strong>Pennings, J.</strong> (2016). The Liink Project: Implementation of a Recess and Character Development Pilot Study with Grades K &amp; 1 Children. Texas Association of Health, Physical Education, Recreation, &amp; Dance Journal (TAHPERD), 84(2), 14-17.</p></li>
+<li><p>Stativa, E., Rus, A.V., Stanescu, A., <strong>Pennings, J.S.</strong>, Parris, S.R. &amp; Wenyika, R. (In press). Prevalence and Predictors of Anaemia in Romanian Infants 6-23 Months Old. Journal of Public Health. First published online October 22, 2015 <a href="doi:10.1093/pubmed/fdv145" class="uri">doi:10.1093/pubmed/fdv145</a></p></li>
+<li><p>Fredland, N., McFarlane, J., Symes, L., Maddoux, J., <strong>Pennings, J.</strong>, Paulson, R., Binder, B. &amp; Gilroy, H. (2016). Modeling the intergenerational impact of partner abuse on maternal and child function at 24 months post outreach: Implications for practice and policy. Nursing Outlook, 64(2), 156-169. <a href="doi:10.1016/j.outlook.2015.10.005" class="uri">doi:10.1016/j.outlook.2015.10.005</a></p></li>
+<li><p>Symes, L., Maddous, J., McFarlane, J. <strong>Pennings, J.</strong> (2016). A risk assessment tool to predict sustained PTSD symptoms among women reporting abuse. Journal of Women’s Health, 25(4), 340-347. <a href="doi:10.1089/jwh.2015.5287" class="uri">doi:10.1089/jwh.2015.5287</a>.</p></li>
+<li><p>McFarlane, J., <strong>Pennings, J.</strong>, Liu, F.Q., Gilroy, H., Nava, A., Maddoux, J., Montalvo-Liendo, N., &amp; Paulson, R. (2016). Predicting abused women with children who return to a shelter: Development and use of a rapid assessment triage tool. Violence Against Women, 22(2), 189-205</p></li>
+<li><p>Daniels, G., Robinson, J.R., Walker, C., <strong>Pennings, J.S.</strong>, Anderson, S.T. (2015). Gastrointestinal Symptoms among African Americans Undergoing Hemodialysis. Nephrology Nursing Journal, 42(6), 539-548.</p></li>
+<li><p><strong>Pennings. J.</strong>, McFarlane, J., Paulson, R., Fredland, N., Binder, B., Koci, A., &amp; MontalvoLiendo, N. (2015). Predicting Behavioral Dysfunctions of Youth Living in Violent Homes: A Rapid Assessment Triage Tool. Journal of Applied Research on Children: Informing Policy for Children at Risk, 6(1), Article 11.</p></li>
+<li><p>Alexander, G.K., Rollins, K., Walker, D., Wong, L., &amp; <strong>Pennings, J.</strong> (2015). Yoga for self-care and burnout prevention among nurses. Workplace Health &amp; Safety, 63(10), 462-470.</p></li>
+<li><p>Fredland, N., McFarlane, J., Symes, L., Gilroy, H., Paulson, R., Nava, A., &amp; <strong>Pennings, J.S.</strong> (2015). Connecting Partner Violence to Poor Functioning for Women and Children: Modeling Intergenerational Outcomes. Journal of Family Violence, 30(5), 555-566.</p></li>
+<li><p>McFarlane, J., <strong>Pennings, J.</strong>, Symes, L., Maddoux, J., &amp; Paulson, R. (2014). Predicting Abused Women with Children Who Return to the Abuser: Development of a Risk Assessment Tool. Journal of Threat Assessment and Management, 1(4), 274-290.</p></li>
+<li><p>Stativa, E. Rus, A.V., Suciu, N., <strong>Pennings, J.S.</strong>, Butterfield, M.E., Wenyika, R., &amp; Webster, R. (2014). Characteristics and prenatal care utilisation of Romanian pregnant women. The European Journal of Contraception and Reproductive Health Care, 19(3), 220-226.</p></li>
+<li><p>Rus, A. V., Stativa, E., <strong>Pennings, J. S.</strong>, Cross, D. R., Ekas, N., Purvis, K., &amp; Parris, S.R. (2013). Severe Punishment of Children by Staff in Romanian Placement Centers for School-Aged Children: Effects of Child and Institutional Characteristics. Child Abuse and Neglect, 37(12) 1152-1162.</p></li>
+<li><p>Dietz, T., Davis, D, &amp; <strong>Pennings, J. S.</strong> (2012). Evaluating and Comparing the Efficacy of Three Group Therapies for Child Sexual Abuse: The Effect of Incorporating Animal Assisted Therapy, Journal of Child Sexual Abuse, 21(6), 665-683</p></li>
+<li><p>Purvis, K. B., Cross, D. R., &amp; <strong>Pennings, J. S.</strong> (2009). Trust-Based Relational InterventionT: Interactive Principles for Adopted Children With Special Social-Emotional Needs. Journal of Humanistic Counseling, Education &amp; Development, 49, 3-22.</p></li>
+<li><p>Purvis, K. B., Cross, D. R., &amp; <strong>Pennings, J. S.</strong> (2007). International adoption of postinstitutionalized children: Implications for school counselors. Journal of School Counseling, 5(22). Retrieved December 3, 2007, from <a href="http://jsc.montana.edu/articles/v5n22.pdf" class="uri">http://jsc.montana.edu/articles/v5n22.pdf</a></p></li>
+<li><p>Purvis, K., Cross, D., Kellermann, G., Kellermann, M., Huisman, H, &amp; <strong>Pennings, J. S.</strong> (2006). An experimental evaluation of targeted amino acid therapy with behaviorally at-risk children. Journal of Alternative and Complementary Medicine, 11, 591-593.</p></li>
+</ol>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+$(document).ready(function () {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

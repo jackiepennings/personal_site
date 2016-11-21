@@ -5,6 +5,8 @@ I am proud to call East Nashville my home. It's the best neighborhood on the pla
 
 Yes there really is a Kalamazoo. It's where I'm from.
 
+<p></br></p>
+
 ###I nerd out over:
 * Renovating my home  
 * Ice skating  
@@ -14,7 +16,7 @@ Yes there really is a Kalamazoo. It's where I'm from.
 * Lake Michigan  
 
 My newest thing is ... Crossfit. Ouch.
-
+<p></br></p>
 ###Countries I've Visited
 <!--html_preserve-->
 <script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
@@ -200,5 +202,7 @@ rollOverOutlineColor : "#000000"
 });
 </script>
 <!--/html_preserve-->  
+
+<p></br></p>
 
 You can contact me at jacquelynpennings@gmail.com.

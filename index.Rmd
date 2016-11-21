@@ -1,9 +1,6 @@
 ---
-title: "Jackie Pennings"
+title: " " 
 ---
+<p></br></p>
 
-Welcome to my website. I am just beginning to work on the site so please bear with me!
-
-![](sunset.jpg)  
-
-*Yet this I call to mind and therefore I have hope: Because of the LORD's great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness. I say to myself, "The LORD is my portion; therefore I will wait for him."* -- Lamentations 3:21-24
+<img src="coverfence2.png" hspace="1">

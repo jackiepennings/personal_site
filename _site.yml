@@ -5,7 +5,9 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Professional"
+    - text: "Grant Writing & Publications"
+      href: grantspubs.html
+    - text: "Bio"
       href: professional.html
     - text: "Curriculum Vitae"
       href: cv.html
@@ -16,5 +18,5 @@ navbar:
 
 output:
   html_document:
-    theme: flatly
+    theme: sandstone
     css: style.css
