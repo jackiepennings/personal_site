@@ -3,4 +3,4 @@ title: " "
 ---
 <p></br></p>
 
-<img src="coverfence2.png" hspace="1">
+<img src="coverfence.png" hspace="1">
