@@ -1,0 +1,21 @@
+---
+title: " "
+---
+ 
+#Jacquelyn Pennings, Ph.D., PStat
+##Bio 
+<img src="penningsimage.jpg" hspace="10" align = "left">  
+
+#####I am currently a biostatistician at Vanderbilt University Medical Center. I have experience as the director of nonprofit research and a statistician at [Elite Research, LLC](http://www.eliteresearch.com/) and also as a statistical research specialist at the State of Tennessee [Department of Mental Health and Substance Abuse Services](https://tn.gov/behavioral-health).  
+<p></br></p>
+#####I earned a Ph.D. and Master's degree in experimental psychology from [Texas Christian University](www.tcu.edu) after obtaining a Bachelor's degree from [Belmont University](http://www.belmont.edu/psychology). I have also been accredited by the American Statistical Association as an [Accredited Professional Statistician](http://www.amstat.org/ASA/Your-Career/Accredited-Members.aspx).  
+<p></br></p>
+#####As a statistician, I collaborate with nonprofit organizations, faculty, and graduate students on research design, conducting and interpreting statistical analysis, software training, and manuscript preparation. Specific statistical areas of expertise include factor and cluster analysis, basic bivariate analyses (including crosstabulations, chi square, t-tests, ANOVAs and correlations), repeated measure and two-way ANOVAs, linear and hierarchical/mixed models, structural equation modeling, and nonparametric analyses including logistic regression techniques.  
+<p></br></p>
+#####I have been the statistical consultant for several institutions, including Medical Center of Plano, Medical Center of Lewisville, OneHope Inc., the College of Nursing and Health Sciences at TCU. I have also worked on numerous national and international grants in areas such as health science, nutrition, reading, psychology, and mental illness. I am a member of several professional organizations and have presented my personal research at many conferences.  
+<p></br></p>
+#####Through my training in statistics and research, as well as being personally involved as a researcher, I am qualified to conduct statistical analysis, plan research, and to advise others on their various research issues and needs.  
+<p></br></p>
+<img src="vumc.jpg" hspace="10"> <img src="TDMHSAS2.png" hspace="10">
+<img src="Elite.png" hspace="10"> <img src="tcu.jpg" hspace="10"> <img src="belmont-logo.jpg" hspace="10">
+  

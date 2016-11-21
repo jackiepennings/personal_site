@@ -10,58 +10,67 @@ output:
 **<span style="color:#04B4AE">2016</span>**
 
 ####National Science Foundation: SBE Postdoctoral Research Fellowships (SPRF)
->######The Directorate for Social, Behavioral and Economic Sciences (SBE) offers Postdoctoral Research Fellowships to encourage independence early in the Fellow's career through supporting his or her research and training goals. The research and training plan of each fellowship must address important scientific questions within the scope of the SBE Directorate and the specific guidelines in this fellowship solicitation. The SPRF program offers two tracks: (I) Fundamental Research in the SBE Sciences (SPRF-FR) and (II) Broadening Participation in the SBE Sciences (SPRF-BP). See the full text of the solicitation for a detailed description of these tracks.
-#####Written: Approach Section  
+>#####Written: Approach Section 
+######The Directorate for Social, Behavioral and Economic Sciences (SBE) offers Postdoctoral Research Fellowships to encourage independence early in the Fellow's career through supporting his or her research and training goals. The research and training plan of each fellowship must address important scientific questions within the scope of the SBE Directorate and the specific guidelines in this fellowship solicitation. The SPRF program offers two tracks: (I) Fundamental Research in the SBE Sciences (SPRF-FR) and (II) Broadening Participation in the SBE Sciences (SPRF-BP). See the full text of the solicitation for a detailed description of these tracks.
+ 
 
 ####MN Department of Health: Researcher for Retrospective Medical Record Review Project
->######The Minnesota Department of Health, through its Community and Family Health Division (State), is seeking proposals from qualified responders to design, implement, and draft a report for a medical record review project. This project will be led by the Maternal and Child Health Section and will take place from July 1, 2016 to December 15, 2016.  
-#####Written: Entire Proposal
+>#####Written: Entire Proposal
+######The Minnesota Department of Health, through its Community and Family Health Division (State), is seeking proposals from qualified responders to design, implement, and draft a report for a medical record review project. This project will be led by the Maternal and Child Health Section and will take place from July 1, 2016 to December 15, 2016.  
+
 
 **<span style="color:#04B4AE">2015</span>**
 
 ####Department of Education: Investing in Innovation Fund (i3)
->######The Investing in Innovation Fund, established under section 14007 of the American Recovery and Reinvestment Act of 2009 (ARRA), provides funding to support (1) local educational agencies (LEAs) and (2) nonprofit organizations in partnership with (a) one or more LEAs or (b) a consortium of schools. The purpose of this program is to provide competitive grants to applicants with a record of improving student achievement and attainment in order to expand the implementation of, and investment in, innovative practices that are demonstrated to have an impact on improving student achievement or student growth, closing achievement gaps, decreasing dropout rates, increasing high school graduation rates, or increasing college enrollment and completion rates. These grants will (1) allow eligible entities to expand and develop innovative practices that can serve as models of best practices, (2) allow eligible entities to work in partnership with the private sector and the philanthropic community, and (3) identify and document best practices that can be shared and taken to scale based on demonstrated success.  
-#####Title: Let's inspire Innovation 'N Kids  
-#####Written: Logic Model, Quality of Project Evaluation
+>#####Written: Logic Model, Quality of Project Evaluation
+#####Title: Let's inspire Innovation 'N Kids
+######The Investing in Innovation Fund, established under section 14007 of the American Recovery and Reinvestment Act of 2009 (ARRA), provides funding to support (1) local educational agencies (LEAs) and (2) nonprofit organizations in partnership with (a) one or more LEAs or (b) a consortium of schools. The purpose of this program is to provide competitive grants to applicants with a record of improving student achievement and attainment in order to expand the implementation of, and investment in, innovative practices that are demonstrated to have an impact on improving student achievement or student growth, closing achievement gaps, decreasing dropout rates, increasing high school graduation rates, or increasing college enrollment and completion rates. These grants will (1) allow eligible entities to expand and develop innovative practices that can serve as models of best practices, (2) allow eligible entities to work in partnership with the private sector and the philanthropic community, and (3) identify and document best practices that can be shared and taken to scale based on demonstrated success.  
+
 
 ####NIH: Research Project Grant R01
->######Social Psychology, Personality and Interpersonal Processes Study Section: The Research Project Grant (R01) supports a discrete, specified, circumscribed project to be performed by the named investigator(s) in areas representing the specific interests and competencies of the investigator(s). The proposed project must be related to the programmatic interests of one or more of the participating NIH Institutes and Centers (ICs) based on descriptions of their programs.  
-#####Title: Explaining and Improving Child Function Following Domestic Violence  
-#####Written: Specific Aims, Approach
+>#####Written: Specific Aims, Approach
+#####Title: Explaining and Improving Child Function Following Domestic Violence
+######Social Psychology, Personality and Interpersonal Processes Study Section: The Research Project Grant (R01) supports a discrete, specified, circumscribed project to be performed by the named investigator(s) in areas representing the specific interests and competencies of the investigator(s). The proposed project must be related to the programmatic interests of one or more of the participating NIH Institutes and Centers (ICs) based on descriptions of their programs.  
+
 
 **<span style="color:#04B4AE">2014</span>**
 
 ####Agency for Healthcare Research and Quality (AHRQ): Exploratory and Developmental Grant to Improve Health Care Quality through Health Information Technology (R21)
->######The purpose of this Funding Opportunity Announcement (FOA) is to fund exploratory and developmental research grants that will contribute to the evidence base of how health IT improves health care quality.  This FOA supports the use of a wide variety of research designs in order to generate information regarding the design and development, implementation, use, or impact of health IT on quality.  Depending on the research design and intent of the project, applicants may receive support for: (1) pilot and feasibility or self-contained health IT research projects; (2) secondary data analysis of health IT research; or (3) economic (prospective or retrospective) analyses of a health IT project.
+>#####Written: Research Plan, Project Summary, Project Narrative
 #####Title: Comparison of Previous and Current Clinical Decision Support Systems on Clinical Outcomes, Hospital Readmissions, and Cost
-#####Written: Research Plan, Project Summary, Project Narrative
+######The purpose of this Funding Opportunity Announcement (FOA) is to fund exploratory and developmental research grants that will contribute to the evidence base of how health IT improves health care quality.  This FOA supports the use of a wide variety of research designs in order to generate information regarding the design and development, implementation, use, or impact of health IT on quality.  Depending on the research design and intent of the project, applicants may receive support for: (1) pilot and feasibility or self-contained health IT research projects; (2) secondary data analysis of health IT research; or (3) economic (prospective or retrospective) analyses of a health IT project.
+
 
 ####U.S. Department of Education (84.116F): First in the World Program - Development Grants 
->######Program Description: The FITW program is designed to support the development, replication, and dissemination of innovative solutions and evidence for what works in addressing persistent and widespread challenges in postsecondary education for students who are at risk for not persisting in and completing postsecondary programs, including, but not limited to, adult learners, working students, part-time students, students from low-income backgrounds, students of color, students with disabilities, and first-generation students.  
+>#####Written: Project Evaluation
 #####Title: Cougar Path for STEM at [University Name]: Starting Early for Progress
-#####Written: Project Evaluation
+######Program Description: The FITW program is designed to support the development, replication, and dissemination of innovative solutions and evidence for what works in addressing persistent and widespread challenges in postsecondary education for students who are at risk for not persisting in and completing postsecondary programs, including, but not limited to, adult learners, working students, part-time students, students from low-income backgrounds, students of color, students with disabilities, and first-generation students.  
+
 
 ####U.S. Department of Education (CFDA Number: 84.351C) - Professional Development for Arts Educators Grant program (PDAE)
->######Purpose of Program: The Professional Development for Arts Educators (PDAE) program supports the implementation of high-quality model professional development programs in elementary and secondary education for music, dance, drama, media arts, or visual arts, including folk arts, for educators and other arts instructional staff of kindergarten through grade 12 (K-12) students in high poverty schools. The purpose of this program is to strengthen standards-based arts education programs and to help ensure that all students meet challenging State academic content standards and challenging State student academic achievement standards in the arts.  
+>#####Written: Project Evaluation
 #####Title: Preparing Rural Broad-field Teachers as Community Bricoleurs Rationale for Human Subjects Exemption
-#####Written: Project Evaluation
+######Purpose of Program: The Professional Development for Arts Educators (PDAE) program supports the implementation of high-quality model professional development programs in elementary and secondary education for music, dance, drama, media arts, or visual arts, including folk arts, for educators and other arts instructional staff of kindergarten through grade 12 (K-12) students in high poverty schools. The purpose of this program is to strengthen standards-based arts education programs and to help ensure that all students meet challenging State academic content standards and challenging State student academic achievement standards in the arts.  
 
 **<span style="color:#04B4AE">2013</span>**
 
 ####NIMH Limited Competition (RFA-MD-13-005): Revision Applications for Basic Social and Behavioral Research on the Social, Cultural, Biological, and Psychological Mechanisms of Stigma (R01)
->######This Funding Opportunity Announcement (FOA), issued as part of the NIH Basic Behavioral and Social Sciences Opportunity Network (OppNet), encourages revision applications to incorporate basic research on behavioral and social mechanisms underlying stigma into active R01 research projects. For this initiative, projects may focus on stigma processes and mechanisms from the perspective of stigmatized individuals or groups and/or of individuals or groups holding stigmatizing beliefs. Projects may examine stigma in the context of specific health conditions; however, the focus of the work must be on the underlying mechanisms of stigma ra than on condition-specific manifestations of stigma.  
+>#####Written: Analysis Plan
 #####Title: A School-Based Intervention to Reduce Stigma and Promote Mental-Health Service Use
-#####Written: Analysis Plan
+######This Funding Opportunity Announcement (FOA), issued as part of the NIH Basic Behavioral and Social Sciences Opportunity Network (OppNet), encourages revision applications to incorporate basic research on behavioral and social mechanisms underlying stigma into active R01 research projects. For this initiative, projects may focus on stigma processes and mechanisms from the perspective of stigmatized individuals or groups and/or of individuals or groups holding stigmatizing beliefs. Projects may examine stigma in the context of specific health conditions; however, the focus of the work must be on the underlying mechanisms of stigma ra than on condition-specific manifestations of stigma.  
+
 
 ####Wounded Warrior Program: Evaluation of Wounded Warriors TRACK Program
->######The Wounded Warrior Project (WWP) wants to know more about the effectiveness of its TRACK program.  The WWP is specifically interested in its staff and participants' views of the program.  
-#####Written: Entire Proposal
+>#####Written: Entire Proposal
+######The Wounded Warrior Project (WWP) wants to know more about the effectiveness of its TRACK program.  The WWP is specifically interested in its staff and participants' views of the program.  
+
 
 **<span style="color:#04B4AE">2012</span>**
 
 ####American Educational Research Association (AERA): Dissertation Grant
->######With support from the National Science Foundation (NSF), the AERA Grants Program announces its Dissertation Grants competition. The program seeks to stimulate research on U.S. education issues using data from the large? scale, national and international data sets supported by the National Center for Education Statistics (NCES), NSF, and other federal agencies, and to increase the number of education researchers using these data sets. The program supports research projects that are quantitative in nature, include the analysis of existing data from NCES, NSF or other federal agencies, and have U.S. education policy relevance.
-#####Written: Statistics & Variables sections
+>#####Written: Statistics & Variables sections
+######With support from the National Science Foundation (NSF), the AERA Grants Program announces its Dissertation Grants competition. The program seeks to stimulate research on U.S. education issues using data from the large? scale, national and international data sets supported by the National Center for Education Statistics (NCES), NSF, and other federal agencies, and to increase the number of education researchers using these data sets. The program supports research projects that are quantitative in nature, include the analysis of existing data from NCES, NSF or other federal agencies, and have U.S. education policy relevance.
+
   
 <p></br></p> 
     
@@ -99,3 +108,13 @@ output:
 16. Purvis, K. B., Cross, D. R., & **Pennings, J. S.** (2007). International adoption of postinstitutionalized children: Implications for school counselors. Journal of School Counseling, 5(22). Retrieved December 3, 2007, from http://jsc.montana.edu/articles/v5n22.pdf  
 
 17. Purvis, K., Cross, D., Kellermann, G., Kellermann, M., Huisman, H, & **Pennings, J. S.** (2006). An experimental evaluation of targeted amino acid therapy with behaviorally at-risk children. Journal of Alternative and Complementary Medicine, 11, 591-593.  
+
+<p></br></p> 
+    
+#Dissertation & Thesis
+
+Dissertation (2009): The Effects of a Touch Intervention on Nurturing Touch, Family Functioning, and Child Behavior  
+
+Thesis (2005): Effects of maternal deprivation on problem behavior in post-institutionalized children  
+
+Undergraduate Honors Thesis (2001): Self-Perceptions and Physical Education

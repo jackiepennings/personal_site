@@ -6,7 +6,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Bio"
-      href: professional.html
+      href: bio.html
     - text: "Grant Writing & Publications"
       href: grantspubs.html
     - text: "Curriculum Vitae"

@@ -1,5 +1,4 @@
 ---
 title: " " 
 ---
-<p></br></p>
-<img src="coverfence.jpg" hspace="0" align = "left">
+<img src="coverfence.jpg" hspace="0" align = "left" height="742" width="1384">
