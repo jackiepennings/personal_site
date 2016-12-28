@@ -17,5 +17,5 @@ title: " "
 #####Through my training in statistics and research, as well as being personally involved as a researcher, I am qualified to conduct statistical analysis, plan research, and to advise others on their various research issues and needs.  
 <p></br></p>
 <img src="vumc.jpg" hspace="10"> <img src="TDMHSAS2.png" hspace="10">
-<img src="Elite.png" hspace="10"> <img src="tcu.jpg" hspace="10"> <img src="belmont-logo.jpg" hspace="10">
+<img src="Elite.png" hspace="10"> <img src="tcu.jpg" hspace="10"> <img src="Belmont-logo.jpg" hspace="10">
   
