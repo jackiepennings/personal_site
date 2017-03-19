@@ -1,13 +1,102 @@
 ---
 title: " "
 output:
-  html_document:
-    toc: true
-    toc_depth: 2
-    toc_float: true
+  html_document
 ---
-#Grant Writing Experience
-**<span style="color:#04B4AE">2016</span>**
+<br>
+
+#Publications and Grants {.tabset .tabset-fade .tabset-pill}
+
+##Publications  
+
+1. Rus, A., Stativa, E., Butterfield, M., **Pennings, J.**, Parris, S., Burcea, G., Wenyika, R. (2017). Peer Exploitation: Findings from a Romanian Nationally Representative Sample of Children Living in Long-Term Residential Centres. Child Abuse Review. First published online 3/2/2017. doi:10.1002/car.2464.  
+
+2. Rus, A., Tomuletiu, E., Parris, S., **Pennings, J.**, Webster, R. (2016). Comparisons of Emotional and Behavioral Problems Reported by Parents and Teachers in Three Ethnic Groups Living in Romania: A Pilot Study. Review of Research and Social Intervention, 55, 63-79. 
+
+3. Rhea, D.J., Rivchun, A.P., & **Pennings, J.** (2016). The Liink Project: Implementation of a Recess and Character Development Pilot Study with Grades K & 1 Children. Texas Association of Health, Physical Education, Recreation, & Dance Journal (TAHPERD), 84(2), 14-17.  
+
+4. Stativa, E., Rus, A.V., Stanescu, A., **Pennings, J.S.**, Parris, S.R. & Wenyika, R. (In press). Prevalence and Predictors of Anaemia in Romanian Infants 6-23 Months Old. Journal of Public Health. First published online October 22, 2015 doi:10.1093/pubmed/fdv145  
+
+5. Fredland, N., McFarlane, J., Symes, L., Maddoux, J., **Pennings, J.**, Paulson, R., Binder, B. & Gilroy, H. (2016). Modeling the intergenerational impact of partner abuse on maternal and child function at 24 months post outreach: Implications for practice and policy. Nursing Outlook, 64(2), 156-169. doi:10.1016/j.outlook.2015.10.005  
+
+6. Symes, L., Maddous, J., McFarlane, J. **Pennings, J.** (2016). A risk assessment tool to predict sustained PTSD symptoms among women reporting abuse. Journal of Women's Health, 25(4), 340-347. doi:10.1089/jwh.2015.5287.  
+
+7. McFarlane, J., **Pennings, J.**, Liu, F.Q., Gilroy, H., Nava, A., Maddoux, J., Montalvo-Liendo, N., & Paulson, R. (2016). Predicting abused women with children who return to a shelter: Development and use of a rapid assessment triage tool. Violence Against Women, 22(2), 189-205  
+
+8. Daniels, G., Robinson, J.R., Walker, C., **Pennings, J.S.**, Anderson, S.T. (2015). Gastrointestinal Symptoms among African Americans Undergoing Hemodialysis. Nephrology Nursing Journal, 42(6), 539-548.  
+
+9. **Pennings. J.**, McFarlane, J., Paulson, R., Fredland, N., Binder, B., Koci, A., & MontalvoLiendo, N. (2015). Predicting Behavioral Dysfunctions of Youth Living in Violent Homes: A Rapid Assessment Triage Tool. Journal of Applied Research on Children: Informing Policy for Children at Risk, 6(1), Article 11.  
+
+10. Alexander, G.K., Rollins, K., Walker, D., Wong, L., & **Pennings, J.** (2015). Yoga for self-care and burnout prevention among nurses. Workplace Health & Safety, 63(10), 462-470.  
+
+11. Fredland, N., McFarlane, J., Symes, L., Gilroy, H., Paulson, R., Nava, A., & **Pennings, J.S.**  (2015). Connecting Partner Violence to Poor Functioning for Women and Children: Modeling Intergenerational Outcomes. Journal of Family Violence, 30(5), 555-566.  
+
+12. McFarlane, J., **Pennings, J.**, Symes, L., Maddoux, J., & Paulson, R. (2014). Predicting Abused Women with Children Who Return to the Abuser: Development of a Risk Assessment Tool. Journal of Threat Assessment and Management, 1(4), 274-290.  
+
+13. Stativa, E. Rus, A.V., Suciu, N., **Pennings, J.S.**, Butterfield, M.E., Wenyika, R., & Webster, R. (2014). Characteristics and prenatal care utilisation of Romanian pregnant women. The European Journal of Contraception and Reproductive Health Care, 19(3), 220-226.  
+
+14. Rus, A. V., Stativa, E., **Pennings, J. S.**, Cross, D. R., Ekas, N., Purvis, K., & Parris, S.R. (2013). Severe Punishment of Children by Staff in Romanian Placement Centers for School-Aged Children: Effects of Child and Institutional Characteristics. Child Abuse and Neglect, 37(12) 1152-1162.  
+
+15. Dietz, T., Davis, D, & **Pennings, J. S.** (2012). Evaluating and Comparing the Efficacy of Three Group Therapies for Child Sexual Abuse: The Effect of Incorporating Animal Assisted Therapy, Journal of Child Sexual Abuse, 21(6), 665-683 
+
+16. Purvis, K. B., Cross, D. R., & **Pennings, J. S.** (2009). Trust-Based Relational InterventionT: Interactive Principles for Adopted Children With Special Social-Emotional Needs. Journal of Humanistic Counseling, Education & Development, 49, 3-22.  
+
+17. Purvis, K. B., Cross, D. R., & **Pennings, J. S.** (2007). International adoption of postinstitutionalized children: Implications for school counselors. Journal of School Counseling, 5(22). Retrieved December 3, 2007, from http://jsc.montana.edu/articles/v5n22.pdf  
+
+18. Purvis, K., Cross, D., Kellermann, G., Kellermann, M., Huisman, H, & **Pennings, J. S.** (2006). An experimental evaluation of targeted amino acid therapy with behaviorally at-risk children. Journal of Alternative and Complementary Medicine, 11, 591-593.  
+
+<p></br></p> 
+
+##Grants
+**<span style="color:#ad42f4">Ongoing Research Support</span>**
+
+####QOD Quality Improvement Registry (PI: Kristin Swygert, DPT, PhD)
+>####Role: Assistant Director 
+#####2016 - Present: Funded by Neuropoint Alliance (NPA)
+
+####Comparative Effectiveness of Postoperative Management for Degenerative Spinal Conditions (PI: Kristin Swygert, DPT, PhD)
+>####Role: Role: Biostatistician 
+#####2016 - Present: Funded by PCORI
+
+####Using Tailoring and Technology to Promote Health Equity in African American Men (PI: Derek Griffith, PhD)
+>####Role: Role: Statistical analysis, manuscript writing
+#####2016 - Present: Funded by the AETNA Foundation (06/15/15-06/14/17)
+
+####Mighty Men: A Faith-based Weight Loss Program to Reduce Cancer Disparities (PI: Derek Griffith, PhD)
+>####Role: Statistical analysis, manuscript writing 
+#####2016 - Present: Funded by the American Cancer Society (07/01/2016- 06/30/2020)
+
+
+**<span style="color:#ad42f4">Completed Research Support</span>**
+
+####Project LiiNK: Let's Inspire Innovation 'N Kids (PI: Debbie Rhea, PhD) 
+>####Role: assist with grant writing, research design, data management protocols, statistical analysis, statistical write up of results for reports and manuscripts
+####2013 - 2017: Funded by Texas Christian University, The Miles Foundation, The Walsh Foundation, Alan C. Fox, and others
+
+####Testing Two Global Models to Prevent Violence Against Women and Children: Methods and Policy Implications for a Seven Year Prospective Study (PI: Judith McFarlane, PhD)
+>####Role: Research design, instrumentation development, data preparation, scoring, statistical analysis for program evaluation, stakeholder reports, manuscript preparation
+#####2011 - 2016: Funded by The Houston Endowment
+
+####Assessing Parent to Child Transmission of Mental Illness and Race/Ethnic Stigma (PIs: Bruce Link, Ph.D., Kirstin Painter, PhD)
+>####Role: grant writing, conduct statistical analysis, advise on research design, power/sample size calculations
+#####2014 - 2016: Funded by NIH (R01)
+
+####A School-Based Intervention to Reduce Stigma and Promote Mental-Health Service Use (PI: Bruce Link, PhD)
+>####Role: Research design, statistical analysis
+#####2011 - 2015: Funded by R-01 NIH/NIMH Submission (General)
+
+####Attitudes and Behaviors of Youth (PI: Allen Reesor)
+>####Role: Research design, statistical analysis
+#####2006 - 2013: Funded by Maclellan Foundation and Global Ministries - Book of Hope International
+
+####Measuring the Effectiveness of iMatter Training on South African School Children (PI: Al York, Kami Ecker)
+>####Role: Research design, statistical analysis for program evaluation
+#####2009 - 2010: Funded by US President's Emergency Plan for AIDS Relief (PEPFAR)
+
+<p><br></p> 
+
+##Grant Writing
+**<span style="color:#ad42f4">2016</span>**
 
 ####National Science Foundation: SBE Postdoctoral Research Fellowships (SPRF)
 >#####Written: Approach Section 
@@ -19,7 +108,7 @@ output:
 ######The Minnesota Department of Health, through its Community and Family Health Division (State), is seeking proposals from qualified responders to design, implement, and draft a report for a medical record review project. This project will be led by the Maternal and Child Health Section and will take place from July 1, 2016 to December 15, 2016.  
 
 
-**<span style="color:#04B4AE">2015</span>**
+**<span style="color:#ad42f4">2015</span>**
 
 ####Department of Education: Investing in Innovation Fund (i3)
 >#####Written: Logic Model, Quality of Project Evaluation
@@ -33,7 +122,7 @@ output:
 ######Social Psychology, Personality and Interpersonal Processes Study Section: The Research Project Grant (R01) supports a discrete, specified, circumscribed project to be performed by the named investigator(s) in areas representing the specific interests and competencies of the investigator(s). The proposed project must be related to the programmatic interests of one or more of the participating NIH Institutes and Centers (ICs) based on descriptions of their programs.  
 
 
-**<span style="color:#04B4AE">2014</span>**
+**<span style="color:#ad42f4">2014</span>**
 
 ####Agency for Healthcare Research and Quality (AHRQ): Exploratory and Developmental Grant to Improve Health Care Quality through Health Information Technology (R21)
 >#####Written: Research Plan, Project Summary, Project Narrative
@@ -52,7 +141,7 @@ output:
 #####Title: Preparing Rural Broad-field Teachers as Community Bricoleurs Rationale for Human Subjects Exemption
 ######Purpose of Program: The Professional Development for Arts Educators (PDAE) program supports the implementation of high-quality model professional development programs in elementary and secondary education for music, dance, drama, media arts, or visual arts, including folk arts, for educators and other arts instructional staff of kindergarten through grade 12 (K-12) students in high poverty schools. The purpose of this program is to strengthen standards-based arts education programs and to help ensure that all students meet challenging State academic content standards and challenging State student academic achievement standards in the arts.  
 
-**<span style="color:#04B4AE">2013</span>**
+**<span style="color:#ad42f4">2013</span>**
 
 ####NIMH Limited Competition (RFA-MD-13-005): Revision Applications for Basic Social and Behavioral Research on the Social, Cultural, Biological, and Psychological Mechanisms of Stigma (R01)
 >#####Written: Analysis Plan
@@ -65,7 +154,7 @@ output:
 ######The Wounded Warrior Project (WWP) wants to know more about the effectiveness of its TRACK program.  The WWP is specifically interested in its staff and participants' views of the program.  
 
 
-**<span style="color:#04B4AE">2012</span>**
+**<span style="color:#ad42f4">2012</span>**
 
 ####American Educational Research Association (AERA): Dissertation Grant
 >#####Written: Statistics & Variables sections
@@ -74,44 +163,9 @@ output:
   
 <p></br></p> 
     
-#Publications
-1. Rus, A., Stativa, E., Butterfield, M., **Pennings, J.**, Parris, S., Burcea, G., Wenyika, R. (In press). Peer Exploitation: Findings from a Romanian Nationally Representative Sample of Children Living in Long-Term Residential Centres. Child Abuse Review. Accepted for publication Oct. 11, 2016.  
 
-2. Rhea, D.J., Rivchun, A.P., & **Pennings, J.** (2016). The Liink Project: Implementation of a Recess and Character Development Pilot Study with Grades K & 1 Children. Texas Association of Health, Physical Education, Recreation, & Dance Journal (TAHPERD), 84(2), 14-17.  
-
-3. Stativa, E., Rus, A.V., Stanescu, A., **Pennings, J.S.**, Parris, S.R. & Wenyika, R. (In press). Prevalence and Predictors of Anaemia in Romanian Infants 6-23 Months Old. Journal of Public Health. First published online October 22, 2015 doi:10.1093/pubmed/fdv145  
-
-4. Fredland, N., McFarlane, J., Symes, L., Maddoux, J., **Pennings, J.**, Paulson, R., Binder, B. & Gilroy, H. (2016). Modeling the intergenerational impact of partner abuse on maternal and child function at 24 months post outreach: Implications for practice and policy. Nursing Outlook, 64(2), 156-169. doi:10.1016/j.outlook.2015.10.005  
-
-5. Symes, L., Maddous, J., McFarlane, J. **Pennings, J.** (2016). A risk assessment tool to predict sustained PTSD symptoms among women reporting abuse. Journal of Women's Health, 25(4), 340-347. doi:10.1089/jwh.2015.5287.  
-
-6. McFarlane, J., **Pennings, J.**, Liu, F.Q., Gilroy, H., Nava, A., Maddoux, J., Montalvo-Liendo, N., & Paulson, R. (2016). Predicting abused women with children who return to a shelter: Development and use of a rapid assessment triage tool. Violence Against Women, 22(2), 189-205  
-
-7. Daniels, G., Robinson, J.R., Walker, C., **Pennings, J.S.**, Anderson, S.T. (2015). Gastrointestinal Symptoms among African Americans Undergoing Hemodialysis. Nephrology Nursing Journal, 42(6), 539-548.  
-
-8. **Pennings. J.**, McFarlane, J., Paulson, R., Fredland, N., Binder, B., Koci, A., & MontalvoLiendo, N. (2015). Predicting Behavioral Dysfunctions of Youth Living in Violent Homes: A Rapid Assessment Triage Tool. Journal of Applied Research on Children: Informing Policy for Children at Risk, 6(1), Article 11.  
-
-9. Alexander, G.K., Rollins, K., Walker, D., Wong, L., & **Pennings, J.** (2015). Yoga for self-care and burnout prevention among nurses. Workplace Health & Safety, 63(10), 462-470.  
-
-10. Fredland, N., McFarlane, J., Symes, L., Gilroy, H., Paulson, R., Nava, A., & **Pennings, J.S.**  (2015). Connecting Partner Violence to Poor Functioning for Women and Children: Modeling Intergenerational Outcomes. Journal of Family Violence, 30(5), 555-566.  
-
-11. McFarlane, J., **Pennings, J.**, Symes, L., Maddoux, J., & Paulson, R. (2014). Predicting Abused Women with Children Who Return to the Abuser: Development of a Risk Assessment Tool. Journal of Threat Assessment and Management, 1(4), 274-290.  
-
-12. Stativa, E. Rus, A.V., Suciu, N., **Pennings, J.S.**, Butterfield, M.E., Wenyika, R., & Webster, R. (2014). Characteristics and prenatal care utilisation of Romanian pregnant women. The European Journal of Contraception and Reproductive Health Care, 19(3), 220-226.  
-
-13. Rus, A. V., Stativa, E., **Pennings, J. S.**, Cross, D. R., Ekas, N., Purvis, K., & Parris, S.R. (2013). Severe Punishment of Children by Staff in Romanian Placement Centers for School-Aged Children: Effects of Child and Institutional Characteristics. Child Abuse and Neglect, 37(12) 1152-1162.  
-
-14. Dietz, T., Davis, D, & **Pennings, J. S.** (2012). Evaluating and Comparing the Efficacy of Three Group Therapies for Child Sexual Abuse: The Effect of Incorporating Animal Assisted Therapy, Journal of Child Sexual Abuse, 21(6), 665-683 
-
-15. Purvis, K. B., Cross, D. R., & **Pennings, J. S.** (2009). Trust-Based Relational InterventionT: Interactive Principles for Adopted Children With Special Social-Emotional Needs. Journal of Humanistic Counseling, Education & Development, 49, 3-22.  
-
-16. Purvis, K. B., Cross, D. R., & **Pennings, J. S.** (2007). International adoption of postinstitutionalized children: Implications for school counselors. Journal of School Counseling, 5(22). Retrieved December 3, 2007, from http://jsc.montana.edu/articles/v5n22.pdf  
-
-17. Purvis, K., Cross, D., Kellermann, G., Kellermann, M., Huisman, H, & **Pennings, J. S.** (2006). An experimental evaluation of targeted amino acid therapy with behaviorally at-risk children. Journal of Alternative and Complementary Medicine, 11, 591-593.  
-
-<p></br></p> 
     
-#Dissertation & Thesis
+##Dissertation & Thesis
 
 Dissertation (2009): The Effects of a Touch Intervention on Nurturing Touch, Family Functioning, and Child Behavior  
 

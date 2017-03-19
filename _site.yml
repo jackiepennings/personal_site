@@ -7,16 +7,17 @@ navbar:
       href: index.html
     - text: "Bio"
       href: bio.html
-    - text: "Grant Writing & Publications"
+    - text: "Publications & Grants"
       href: grantspubs.html
     - text: "Curriculum Vitae"
       href: cv.html
     - text: "About Me"
       href: about.html 
-
+    - text: "Useful Links"
+      href: usefullinks.html
 
 
 output:
   html_document:
-    theme: sandstone
+    theme: cosmo
     css: style.css

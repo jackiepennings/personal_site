@@ -1,0 +1,21 @@
+---
+title: ' '
+---
+<br> 
+
+#Useful Links for Rmarkdown and Github  
+<br>
+[Nick Strayer's How to make an RMarkdown Website](http://nickstrayer.me/RMarkdown_Sites_tutorial/)  
+<br>
+[Github help: cloning a repository](https://help.github.com/articles/cloning-a-repository/)  
+<br>
+[RMarkdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
+<br>
+<br>
+
+
+#Things I'd like to explore further  
+<br>
+[Text Mining with R](http://tidytextmining.com/twitter.html) by Julia Silge and Davide Robinson  
+<br>
+[Strenge Jacke: Beautiful table outputs in R  -- using sjPlot](https://strengejacke.wordpress.com/2014/03/04/beautiful-table-outputs-in-r-part-2-rstats-sjplot/)

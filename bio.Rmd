@@ -1,21 +1,41 @@
 ---
 title: " "
 ---
- 
-#Jacquelyn Pennings, Ph.D., PStat
-##Bio 
-<img src="penningsimage.jpg" hspace="10" align = "left">  
 
-#####I am currently a biostatistician at Vanderbilt University Medical Center. I have experience as the director of nonprofit research and a statistician at [Elite Research, LLC](http://www.eliteresearch.com/) and also as a statistical research specialist at the State of Tennessee [Department of Mental Health and Substance Abuse Services](https://tn.gov/behavioral-health).  
-<p></br></p>
-#####I earned a Ph.D. and Master's degree in experimental psychology from [Texas Christian University](www.tcu.edu) after obtaining a Bachelor's degree from [Belmont University](http://www.belmont.edu/psychology). I have also been accredited by the American Statistical Association as an [Accredited Professional Statistician](http://www.amstat.org/ASA/Your-Career/Accredited-Members.aspx).  
-<p></br></p>
-#####As a statistician, I collaborate with nonprofit organizations, faculty, and graduate students on research design, conducting and interpreting statistical analysis, software training, and manuscript preparation. Specific statistical areas of expertise include factor and cluster analysis, basic bivariate analyses (including crosstabulations, chi square, t-tests, ANOVAs and correlations), repeated measure and two-way ANOVAs, linear and hierarchical/mixed models, structural equation modeling, and nonparametric analyses including logistic regression techniques.  
-<p></br></p>
-#####I have been the statistical consultant for several institutions, including Medical Center of Plano, Medical Center of Lewisville, OneHope Inc., the College of Nursing and Health Sciences at TCU. I have also worked on numerous national and international grants in areas such as health science, nutrition, reading, psychology, and mental illness. I am a member of several professional organizations and have presented my personal research at many conferences.  
-<p></br></p>
-#####Through my training in statistics and research, as well as being personally involved as a researcher, I am qualified to conduct statistical analysis, plan research, and to advise others on their various research issues and needs.  
-<p></br></p>
-<img src="vumc.jpg" hspace="10"> <img src="TDMHSAS2.png" hspace="10">
-<img src="Elite.png" hspace="10"> <img src="tcu.jpg" hspace="10"> <img src="Belmont-logo.jpg" hspace="10">
-  
+<br>
+
+#Jacquelyn Pennings, Ph.D., PStat
+
+***
+<img src="penningsheadshot.jpg" hspace="40" align = "right">Jackie Pennings is a Research Assistant Professor in the Department of Orthopaedic Surgery and Rehabilitation in the School of Medicine at Vanderbilt University.
+<br>
+
+Prior to her faculty appointment, Jackie worked as a biostatistician at Vanderbilt University Medical Center, the director of nonprofit research and a statistician at Elite Research, LLC, and also as a statistical research specialist at the State of Tennessee Department of Mental Health and Substance Abuse Services. She has worked on national and international grants in areas such as health science, nutrition, reading, psychology, and mental illness. She is a member of several professional organizations including the American Statistical Association and the International Biometric Society.  
+
+Jackie's research interests include:
+
+* Relationship between mental health factors and  
+    * physical health outcomes such as obesity, BMI, general health ratings
+    * surgery recovery and hospital readmissions  
+* Structural Equation Models
+* Exploratory and confirmatory factor analysis
+* Survey development and validation
+* Physical and emotional development of at-risk children and families
+
+She earned a Ph.D. and Master's degree in experimental psychology from Texas Christian University after obtaining a Bachelor's degree from Belmont University. Jackie has also been accredited by the American Statistical Association as an Accredited Professional Statistician.
+
+<br>
+<img src="Belmont-logo.jpg" hspace="10" align = "left">
+ <img src="tcu.jpg" hspace="10"align = "left">  
+ 
+
+ <img src="vumc.jpg" hspace="10" align = "right"> 
+ <img src="TDMHSAS2.png" hspace="10" align = "right">
+<img src="Elite.png" hspace="10"align = "right">  
+
+***
+
+
+
+<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/jacquelynpennings" data-format="inline" data-related="false"></script>
