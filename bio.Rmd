@@ -34,8 +34,3 @@ She earned a Ph.D. and Master's degree in experimental psychology from Texas Chr
 <img src="Elite.png" hspace="10"align = "right">  
 
 ***
-
-
-
-<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/jacquelynpennings" data-format="inline" data-related="false"></script>
