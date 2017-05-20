@@ -51,7 +51,7 @@ output:
 <p></br></p> 
 
 ##Grants
-**<span style="color:#ad42f4">Ongoing Research Support</span>**
+**<span style="color:#2780e3">Ongoing Research Support</span>**  
 
 ####QOD Quality Improvement Registry (PI: Archer)
 >####Role: Assistant Director 
@@ -70,7 +70,7 @@ output:
 #####2016 - Present: Funded by the American Cancer Society (07/01/2016- 06/30/2020)
 
 
-**<span style="color:#ad42f4">Completed Research Support</span>**
+**<span style="color:#2780e3">Completed Research Support</span>**
 
 ####Project LiiNK: Let's Inspire Innovation 'N Kids (PI: Rhea) 
 >####Role: assist with grant writing, research design, data management protocols, statistical analysis, statistical write up of results for reports and manuscripts
@@ -95,7 +95,7 @@ output:
 <p><br></p> 
 
 ##Grant Writing
-**<span style="color:#ad42f4">2016</span>**
+**<span style="color:#2780e3">2016</span>**
 
 ####National Science Foundation: SBE Postdoctoral Research Fellowships (SPRF)
 >#####Written: Approach Section 
@@ -107,7 +107,7 @@ output:
 ######The Minnesota Department of Health, through its Community and Family Health Division (State), is seeking proposals from qualified responders to design, implement, and draft a report for a medical record review project. This project will be led by the Maternal and Child Health Section and will take place from July 1, 2016 to December 15, 2016.  
 
 
-**<span style="color:#ad42f4">2015</span>**
+**<span style="color:#2780e3">2015</span>**
 
 ####Department of Education: Investing in Innovation Fund (i3)
 >#####Written: Logic Model, Quality of Project Evaluation
@@ -121,7 +121,7 @@ output:
 ######Social Psychology, Personality and Interpersonal Processes Study Section: The Research Project Grant (R01) supports a discrete, specified, circumscribed project to be performed by the named investigator(s) in areas representing the specific interests and competencies of the investigator(s). The proposed project must be related to the programmatic interests of one or more of the participating NIH Institutes and Centers (ICs) based on descriptions of their programs.  
 
 
-**<span style="color:#ad42f4">2014</span>**
+**<span style="color:#2780e3">2014</span>**
 
 ####Agency for Healthcare Research and Quality (AHRQ): Exploratory and Developmental Grant to Improve Health Care Quality through Health Information Technology (R21)
 >#####Written: Research Plan, Project Summary, Project Narrative
@@ -140,7 +140,7 @@ output:
 #####Title: Preparing Rural Broad-field Teachers as Community Bricoleurs Rationale for Human Subjects Exemption
 ######Purpose of Program: The Professional Development for Arts Educators (PDAE) program supports the implementation of high-quality model professional development programs in elementary and secondary education for music, dance, drama, media arts, or visual arts, including folk arts, for educators and other arts instructional staff of kindergarten through grade 12 (K-12) students in high poverty schools. The purpose of this program is to strengthen standards-based arts education programs and to help ensure that all students meet challenging State academic content standards and challenging State student academic achievement standards in the arts.  
 
-**<span style="color:#ad42f4">2013</span>**
+**<span style="color:#2780e3">2013</span>**
 
 ####NIMH Limited Competition (RFA-MD-13-005): Revision Applications for Basic Social and Behavioral Research on the Social, Cultural, Biological, and Psychological Mechanisms of Stigma (R01)
 >#####Written: Analysis Plan
@@ -153,7 +153,7 @@ output:
 ######The Wounded Warrior Project (WWP) wants to know more about the effectiveness of its TRACK program.  The WWP is specifically interested in its staff and participants' views of the program.  
 
 
-**<span style="color:#ad42f4">2012</span>**
+**<span style="color:#2780e3">2012</span>**
 
 ####American Educational Research Association (AERA): Dissertation Grant
 >#####Written: Statistics & Variables sections
