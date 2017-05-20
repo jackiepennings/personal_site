@@ -9,6 +9,9 @@ output:
 
 ##Publications  
 
+[Complete List of Published Work in MyBibliography](https://www.ncbi.nlm.nih.gov/sites/myncbi/jacquelyn.pennings.1/bibliography/52622622/public/?sort=date&direction=ascending) 
+<br>
+
 1. Rus, A., Stativa, E., Butterfield, M., **Pennings, J.**, Parris, S., Burcea, G., Wenyika, R. (2017). Peer Exploitation: Findings from a Romanian Nationally Representative Sample of Children Living in Long-Term Residential Centres. Child Abuse Review. First published online 3/2/2017. doi:10.1002/car.2464.  
 
 2. Rus, A., Tomuletiu, E., Parris, S., **Pennings, J.**, Webster, R. (2016). Comparisons of Emotional and Behavioral Problems Reported by Parents and Teachers in Three Ethnic Groups Living in Romania: A Pilot Study. Review of Research and Social Intervention, 55, 63-79. 
@@ -50,46 +53,42 @@ output:
 ##Grants
 **<span style="color:#ad42f4">Ongoing Research Support</span>**
 
-####QOD Quality Improvement Registry (PI: Kristin Swygert, DPT, PhD)
+####QOD Quality Improvement Registry (PI: Archer)
 >####Role: Assistant Director 
 #####2016 - Present: Funded by Neuropoint Alliance (NPA)
 
-####Comparative Effectiveness of Postoperative Management for Degenerative Spinal Conditions (PI: Kristin Swygert, DPT, PhD)
+####Comparative Effectiveness of Postoperative Management for Degenerative Spinal Conditions (PI: Archer)
 >####Role: Role: Biostatistician 
 #####2016 - Present: Funded by PCORI
 
-####Using Tailoring and Technology to Promote Health Equity in African American Men (PI: Derek Griffith, PhD)
+####Using Tailoring and Technology to Promote Health Equity in African American Men (PI: Griffith, PhD)
 >####Role: Role: Statistical analysis, manuscript writing
 #####2016 - Present: Funded by the AETNA Foundation (06/15/15-06/14/17)
 
-####Mighty Men: A Faith-based Weight Loss Program to Reduce Cancer Disparities (PI: Derek Griffith, PhD)
+####Mighty Men: A Faith-based Weight Loss Program to Reduce Cancer Disparities (PI: Griffith, PhD)
 >####Role: Statistical analysis, manuscript writing 
 #####2016 - Present: Funded by the American Cancer Society (07/01/2016- 06/30/2020)
 
 
 **<span style="color:#ad42f4">Completed Research Support</span>**
 
-####Project LiiNK: Let's Inspire Innovation 'N Kids (PI: Debbie Rhea, PhD) 
+####Project LiiNK: Let's Inspire Innovation 'N Kids (PI: Rhea) 
 >####Role: assist with grant writing, research design, data management protocols, statistical analysis, statistical write up of results for reports and manuscripts
 ####2013 - 2017: Funded by Texas Christian University, The Miles Foundation, The Walsh Foundation, Alan C. Fox, and others
 
-####Testing Two Global Models to Prevent Violence Against Women and Children: Methods and Policy Implications for a Seven Year Prospective Study (PI: Judith McFarlane, PhD)
+####Testing Two Global Models to Prevent Violence Against Women and Children: Methods and Policy Implications for a Seven Year Prospective Study (PI: McFarlane)
 >####Role: Research design, instrumentation development, data preparation, scoring, statistical analysis for program evaluation, stakeholder reports, manuscript preparation
 #####2011 - 2016: Funded by The Houston Endowment
 
-####Assessing Parent to Child Transmission of Mental Illness and Race/Ethnic Stigma (PIs: Bruce Link, Ph.D., Kirstin Painter, PhD)
->####Role: grant writing, conduct statistical analysis, advise on research design, power/sample size calculations
-#####2014 - 2016: Funded by NIH (R01)
-
-####A School-Based Intervention to Reduce Stigma and Promote Mental-Health Service Use (PI: Bruce Link, PhD)
+####A School-Based Intervention to Reduce Stigma and Promote Mental-Health Service Use (PI: Link)
 >####Role: Research design, statistical analysis
 #####2011 - 2015: Funded by R-01 NIH/NIMH Submission (General)
 
-####Attitudes and Behaviors of Youth (PI: Allen Reesor)
+####Attitudes and Behaviors of Youth (PI: Reesor)
 >####Role: Research design, statistical analysis
 #####2006 - 2013: Funded by Maclellan Foundation and Global Ministries - Book of Hope International
 
-####Measuring the Effectiveness of iMatter Training on South African School Children (PI: Al York, Kami Ecker)
+####Measuring the Effectiveness of iMatter Training on South African School Children (PI: York &  Ecker)
 >####Role: Research design, statistical analysis for program evaluation
 #####2009 - 2010: Funded by US President's Emergency Plan for AIDS Relief (PEPFAR)
 
