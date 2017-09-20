@@ -50,27 +50,42 @@ output:
 
 <p></br></p> 
 
+##Book Chapters  
+
+1. Stativa E., Rus A.V., Parris S.R., **Pennings J.S.**, Clocotici O. (2017) Institutional Neglect in Romania's Long-Term Residential Centers in the 1990s from the Perspective of Children's Rights. In: Rus A., Parris S., Stativa E. (eds) Child Maltreatment in Residential Care (pp. 27-60). Springer, Cham. 
+
+2. Rus A.V., Stativa, E., Parris, S.R., **Pennings, J.S.**, Butterfield, M.E., Lee, W.C., Gavrilovici, O. (2017) Punishment, Peer Exploitation, and Sexual Abuse in Long-Term Romanian Residential Centers: Findings from a Nationally Representative Sample of Institutionalized Children. In: Rus A., Parris S., Stativa E. (eds) Child Maltreatment in Residential Care (pp. 61-86). Springer, Cham. 
+
+3. Rus A.V., Stativa, E., Parris, S.R., **Pennings, J.S.**, Tibu, F., Wenyika R., Burcea, G. (2017) Academic Achievement of Romanian Institutionalized Children: A Social-Ecological Approach. In: Rus A., Parris S., Stativa E. (eds) Child Maltreatment in Residential Care (pp. 87-110). Springer, Cham.
+
+4. Stativa, E., Rus A.V., Parris S.R., **Pennings J.S.**, Simion B., Wenyika R. (2017) The Prevalence of Stunting Among the Romanian Institutionalized Children Placed in Long-Term Institutional Settings in the 1990s. In: Rus A., Parris S., Stativa E. (eds) Child Maltreatment in Residential Care (pp. 111-128). Springer, Cham.
+
+<p></br></p> 
+
 ##Grants
 **<span style="color:#2780e3">Ongoing Research Support</span>**  
+
+####Comparative Effectiveness of Postoperative Management for Degenerative Spinal Conditions (PI: Archer)
+>####Role: Co-Investigator 
+#####2016 - Present: Funded by PCORI
 
 ####QOD Quality Improvement Registry (PI: Archer)
 >####Role: Assistant Director 
 #####2016 - Present: Funded by Neuropoint Alliance (NPA)
 
-####Comparative Effectiveness of Postoperative Management for Degenerative Spinal Conditions (PI: Archer)
->####Role: Role: Biostatistician 
-#####2016 - Present: Funded by PCORI
-
-####Using Tailoring and Technology to Promote Health Equity in African American Men (PI: Griffith, PhD)
->####Role: Role: Statistical analysis, manuscript writing
-#####2016 - Present: Funded by the AETNA Foundation (06/15/15-06/14/17)
-
 ####Mighty Men: A Faith-based Weight Loss Program to Reduce Cancer Disparities (PI: Griffith, PhD)
 >####Role: Statistical analysis, manuscript writing 
-#####2016 - Present: Funded by the American Cancer Society (07/01/2016- 06/30/2020)
+#####2016 - Present: Funded by the American Cancer Society (07/01/2016-06/30/2020)
 
+####NIH/NIMHD Vanderbilt-Miami-Meharry Center of Excellence in Precision Medicine and Population Health (PI: Wilkins, PhD)
+>####Role: Statistical analysis, manuscript writing 
+#####2016 - Present: U54 funded by NIH/NIMHD (4/01/2016-3/31/2020)
 
 **<span style="color:#2780e3">Completed Research Support</span>**
+
+####Using Tailoring and Technology to Promote Health Equity in African American Men (PI: Griffith, PhD)
+>####Role: Statistical analysis, manuscript writing
+#####2016 - Present: Funded by the AETNA Foundation (06/15/15-06/14/17)
 
 ####Project LiiNK: Let's Inspire Innovation 'N Kids (PI: Rhea) 
 >####Role: assist with grant writing, research design, data management protocols, statistical analysis, statistical write up of results for reports and manuscripts
