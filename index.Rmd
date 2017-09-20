@@ -1,4 +1,7 @@
 ---
 title: " " 
 ---
-<img src="coverfence.jpg" hspace="0" align = "left" height="742" width="1384">
+
+<div id = "headerPhoto" style = "margin-left: calc(50% - 50vw);width: 100vw;">
+<img src="http://www.jacquelynpennings.com/coverfence.jpg" hspace="0" width="100%" >
+</div>
