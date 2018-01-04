@@ -3,5 +3,5 @@ title: " "
 ---
 
 <div id = "headerPhoto" style = "margin-left: calc(50% - 50vw);width: 100vw;">
-<img src="http://www.jackiepennings.com/coverfence.jpg" hspace="0" width="100%" >
+<img src="https://jackiepennings.github.io/personal_site/coverfence.jpg" hspace="0" width="100%" >
 </div>
