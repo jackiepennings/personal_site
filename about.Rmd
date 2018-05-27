@@ -1,6 +1,52 @@
----
-title: "About Me"
----
+#About Me{.tabset .tabset-fade .tabset-pill}
+
+##The Coolest Trip Ever
+<p></p>
+In 2012 I had the opportunity to take the most amazing trip.
+  
+<p></br></p>
+  
+###Destination: North Korea  
+
+Oh, and I also visited Japan, China, and South Korea.
+
+<p></br></p>
+
+
+Why? I joined the [PSI Asian-Pacific Summer Institute](http://www.the-psi.org/) as a faculty member for the [2012 Pyongyang Summer Institute in Survey Science and Quantitative Methodology](http://www.the-psi.org/uploads/1/2/5/4/12544317/psi_newsletter_-_march.pdf).
+
+I was in North Korea for 10 day. I taught courses for a week and spent two weekends seeing various locations in North Korea. We stayed at the international university in the capital city of Pyongyang.  
+
+We could move around freely on campus and had guides with us for weekend tours. 
+
+One weekend we saw beautiful countryside and parks north of the capital city and the other weekend was a tour of the demiliarized zone (DMZ) on the border with South Korea.
+
+Here are a few of my favorite pictures from the trip:
+
+<img src="NK1.jpg" hspace="40" style="width:700px;height:500px;border:0;" align = "center">
+  
+<p>  
+  
+<img src="NK2.jpg" hspace="40" style="width:700px;height:500px;border:0;" align = "center">
+  
+<p>  
+  
+<img src="NK3.jpg" hspace="40" style="width:700px;height:500px;border:0;" align = "center">
+  
+<p>  
+  
+<img src="NK4.jpg" hspace="40" style="width:700px;height:500px;border:0;" align = "center">
+  
+<p>  
+  
+<img src="NK5.jpg" hspace="40" style="width:700px;height:500px;border:0;" align = "center">
+  
+<p>  
+  
+
+
+##Personal
+<p></p>
 I am proud to call East Nashville my home. It's the best neighborhood on the planet.
 
 Yes there really is a Kalamazoo. It's where I'm from.
@@ -10,12 +56,14 @@ Yes there really is a Kalamazoo. It's where I'm from.
 ###I nerd out over:
 * Renovating my home  
 * Ice skating  
+* Weight lifting
 * The tv show Chuck  
-* Traveling  
+* Traveling (I've been to 5 continents & over 30 countries)
+* Data visualization
 * Structural Equation Models  
-* Lake Michigan  
+* Lake Michigan 
 
-My newest thing is ... Crossfit. Ouch.
+
 <p></br></p>
 ###Countries I've Visited
 <!--html_preserve-->
@@ -205,4 +253,40 @@ rollOverOutlineColor : "#000000"
 
 <p></br></p>
 
-You can contact me at jacquelynpennings@gmail.com.
+You can contact me at jacquelyn.pennings@vanderbilt.edu.
+
+##Professional
+
+###Skills
+
+Medical registry development and management
+
+REDCap database development
+
+Online survey development (REDCap, Psychdata, Qualtrics, Survey Monkey,
+Survey Gizmo, etc)
+
+Survey development and validation
+
+Covariance based SEM and partial least squares modeling
+<p>
+
+###Statistical software expertise  
+* SPSS  
+* R  
+* MedCalc  
+* SmartPLS  
+* Lisrel
+
+###Training Courses Attended
+* NIH Perspectives on Peer Review (ENAR, 2017)  
+* Applied Longitudinal Analysis (American Statistical Association, 2016)  
+* Modeling Ordinal Categorical Responses, Examples Using R (American Statistical Association, 2016)  
+* Regression Modeling Strategies Short Course (Vanderbilt University May, 2016)
+* Analysis of Clinical Trials: Theory and Application (American Statistical Association, 2014).
+* Genomic Clinical Trials and Predictive Medicine (American Statistical Association, 2014).
+* Comprehensive PLS Path Modeling Course, April-May 2011.
+* Adult Attachment Interview Training/Scoring Institute, 2007 (reliability check complete  January, 2009).
+* Crisis Prevention Institute Training, 2005.
+* Neuroscience, Inc. Training, 2005.
+* Theraplay Institute Training, Introductory MIM and Theraplay, 2004.
