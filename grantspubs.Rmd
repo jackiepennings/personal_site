@@ -1,11 +1,10 @@
 ---
-title: " "
+title: "Publications and Grants"
 output:
   html_document
 ---
-<br>
 
-# Publications and Grants {.tabset .tabset-fade .tabset-pill}
+# {.tabset .tabset-fade .tabset-pill}
 
 ## Publications  
 

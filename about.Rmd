@@ -1,4 +1,8 @@
-# About Me{.tabset .tabset-fade .tabset-pill}
+---
+title: "About Me"
+---
+
+# {.tabset .tabset-fade .tabset-pill}
 
 ## The Coolest Trip Ever
 <p></p>
