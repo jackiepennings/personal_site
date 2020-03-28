@@ -1,5 +1,5 @@
 ---
-title: "Publications and Grants 2"
+title: "Publications and Grants"
 output:
   html_document
 ---
