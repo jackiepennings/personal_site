@@ -3,7 +3,7 @@ title: ' '
 ---
 <br> 
 
-#Useful Links for Rmarkdown and Github  
+# Useful Links for Rmarkdown and Github  
 <br>
 [Nick Strayer's How to make an RMarkdown Website](http://nickstrayer.me/RMarkdown_Sites_tutorial/)  
 <br>
@@ -14,7 +14,7 @@ title: ' '
 <br>
 
 
-#Things I'd like to explore further  
+# Things I'd like to explore further  
 <br>
 [Text Mining with R](http://tidytextmining.com/twitter.html) by Julia Silge and Davide Robinson  
 <br>
