@@ -1,10 +1,10 @@
 ---
-title: " "
+title: ' '
 ---
  
 #Jacquelyn Pennings, Ph.D., PStat
 ##Bio 
-<img src="penningsimage.jpg" hspace="10" align = "left">  
+<img src="penningsimage2019sm.jpg" hspace="10" align = "left">  
 
 #####I am currently a biostatistician at Vanderbilt University Medical Center. I have experience as the director of nonprofit research and a statistician at [Elite Research, LLC](http://www.eliteresearch.com/) and also as a statistical research specialist at the State of Tennessee [Department of Mental Health and Substance Abuse Services](https://tn.gov/behavioral-health).  
 <p></br></p>

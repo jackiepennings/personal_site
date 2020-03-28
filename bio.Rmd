@@ -1,28 +1,28 @@
 ---
-title: " "
+title: ' '
 ---
 
 <br>
 
-#Jacquelyn Pennings, Ph.D., PStat
+# Jacquelyn Pennings, Ph.D., PStat
 
 ***
-<img src="penningsheadshot.jpg" hspace="40" align = "right">Jackie Pennings is a Research Assistant Professor in the Department of Orthopaedic Surgery and Rehabilitation in the School of Medicine at Vanderbilt University.
+<img src="penningsimage2019sm.jpg" hspace="40" align = "right">Jackie Pennings is a Research Assistant Professor in the Department of Orthopaedic Surgery and Rehabilitation in the School of Medicine at Vanderbilt University.
 <br>
 
-Prior to her faculty appointment, Jackie worked as a biostatistician at Vanderbilt University Medical Center, the director of nonprofit research and a statistician at Elite Research, LLC, and also as a statistical research specialist at the State of Tennessee Department of Mental Health and Substance Abuse Services. She has worked on national and international grants in areas such as health science, nutrition, reading, psychology, and mental illness. She is a member of several professional organizations including the American Statistical Association, American Psychological Association, and the International Biometric Society.  
+Prior to her faculty appointment, Jackie worked as a biostatistician at Vanderbilt University Medical Center, the director of nonprofit research and a statistician at Elite Research, LLC, and also as a statistical research specialist at the State of Tennessee Department of Mental Health and Substance Abuse Services. She has worked on national and international grants in areas such as health science, nutrition, reading, psychology, and mental illness. She is a member of several professional organizations including the American Statistical Association, PROMIS Health Organization, International Society for Quality of Life Research, and the North American Spine Society.  
 
 Jackie's research interests include:
 
-* Relationship between mental health factors and  
-    * physical health outcomes such as obesity, BMI, general health ratings
-    * surgery recovery and hospital readmissions  
-* Structural Equation Models
-* Exploratory and confirmatory factor analysis
-* Survey development and validation
-* Physical and emotional development of at-risk children and families
+* The development, validation, and use of patient reported outcome measures, particularly after orthopaedic surgery  
+* The development and use of longitudinal registries to track patient reported outcomes over time
+* The effects of acute and chronic opioid use on patient outcomes
+* The relationship between physical and mental health outcomes
 
 She earned a Ph.D. and Master's degree in experimental psychology from Texas Christian University after obtaining a Bachelor's degree from Belmont University. Jackie has also been accredited by the American Statistical Association as an Accredited Professional Statistician.
+<br>
+<br>
+<sub><sup>Updated March 2020  
 
 <br>
 <img src="Belmont-logo.jpg" hspace="10" align = "left">

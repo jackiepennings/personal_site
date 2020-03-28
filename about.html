@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title></title>
+<title>about.utf8</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -68,9 +70,7 @@ h6 {
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -84,13 +84,18 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
 }
+.html-widget {
+  margin-bottom: 20px;
+}
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -106,7 +111,6 @@ body {
   padding-top: 56px;
   margin-top: -56px;
 }
-
 .section h2 {
   padding-top: 56px;
   margin-top: -56px;
@@ -126,6 +130,43 @@ body {
 .section h6 {
   padding-top: 56px;
   margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -147,19 +188,74 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-</script>
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -210,18 +306,15 @@ $(document).ready(function () {
 </div>
 
 
-<div id="about-me" class="section level1 tabset tabset-fade tabset-pill">
-<h1>About Me</h1>
-<div id="the-coolest-trip-ever" class="section level2">
-<h2>The Coolest Trip Ever</h2>
+<p>#About Me{.tabset .tabset-fade .tabset-pill}</p>
+##The Coolest Trip Ever
 <p>
 </p>
 <p>In 2012 I had the opportunity to take the most amazing trip.</p>
 <p>
 </br>
 </p>
-<div id="destination-north-korea" class="section level3">
-<h3>Destination: North Korea</h3>
+<p>###Destination: North Korea</p>
 <p>Oh, and I also visited Japan, China, and South Korea.</p>
 <p>
 </br>
@@ -241,10 +334,7 @@ $(document).ready(function () {
 <p>
 <p><img src="NK5.JPG" hspace="40" style="width:700px;height:500px;border:0;" align = "center"></p>
 <p>
-</div>
-</div>
-<div id="personal" class="section level2">
-<h2>Personal</h2>
+##Personal
 <p>
 </p>
 <p>I am proud to call East Nashville my home. It’s the best neighborhood on the planet.</p>
@@ -252,29 +342,15 @@ $(document).ready(function () {
 <p>
 </br>
 </p>
-<div id="i-nerd-out-over" class="section level3">
-<h3>I nerd out over:</h3>
-<ul>
-<li>Renovating my home<br />
-</li>
-<li>Ice skating<br />
-</li>
-<li>Weight lifting</li>
-<li>The tv show Chuck<br />
-</li>
-<li>Traveling (I’ve been to 5 continents &amp; over 30 countries)</li>
-<li>Data visualization</li>
-<li>Structural Equation Models<br />
-</li>
-<li>Lake Michigan</li>
-</ul>
+<p>###I nerd out over: * Renovating my home<br />
+* Ice skating<br />
+* Weight lifting * The tv show Chuck<br />
+* Traveling (I’ve been to 5 continents &amp; over 30 countries) * Data visualization * Structural Equation Models<br />
+* Lake Michigan</p>
 <p>
 </br>
 </p>
-</div>
-<div id="countries-ive-visited" class="section level3">
-<h3>Countries I’ve Visited</h3>
-
+<p>###Countries I’ve Visited 
 <script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
@@ -457,59 +533,29 @@ rollOverOutlineColor : "#000000"
 }
 });
 </script>
-
+</p>
 <p>
 </br>
 </p>
-<p>You can contact me at <a href="mailto:jacquelyn.pennings@vanderbilt.edu">jacquelyn.pennings@vanderbilt.edu</a>.</p>
-</div>
-</div>
-<div id="professional" class="section level2">
-<h2>Professional</h2>
-<div id="skills" class="section level3">
-<h3>Skills</h3>
+<p>You can contact me at <a href="mailto:jacquelyn.pennings@vanderbilt.edu" class="email">jacquelyn.pennings@vanderbilt.edu</a>.</p>
+<p>##Professional</p>
+<p>###Skills</p>
 <p>Medical registry development and management</p>
 <p>REDCap database development</p>
 <p>Online survey development (REDCap, Psychdata, Qualtrics, Survey Monkey, Survey Gizmo, etc)</p>
 <p>Survey development and validation</p>
 Covariance based SEM and partial least squares modeling
 <p>
-</div>
-<div id="statistical-software-expertise" class="section level3">
-<h3>Statistical software expertise</h3>
-<ul>
-<li>SPSS<br />
-</li>
-<li>R<br />
-</li>
-<li>MedCalc<br />
-</li>
-<li>SmartPLS<br />
-</li>
-<li>Lisrel</li>
-</ul>
-</div>
-<div id="training-courses-attended" class="section level3">
-<h3>Training Courses Attended</h3>
-<ul>
-<li>NIH Perspectives on Peer Review (ENAR, 2017)<br />
-</li>
-<li>Applied Longitudinal Analysis (American Statistical Association, 2016)<br />
-</li>
-<li>Modeling Ordinal Categorical Responses, Examples Using R (American Statistical Association, 2016)<br />
-</li>
-<li>Regression Modeling Strategies Short Course (Vanderbilt University May, 2016)</li>
-<li>Analysis of Clinical Trials: Theory and Application (American Statistical Association, 2014).</li>
-<li>Genomic Clinical Trials and Predictive Medicine (American Statistical Association, 2014).</li>
-<li>Comprehensive PLS Path Modeling Course, April-May 2011.</li>
-<li>Adult Attachment Interview Training/Scoring Institute, 2007 (reliability check complete January, 2009).</li>
-<li>Crisis Prevention Institute Training, 2005.</li>
-<li>Neuroscience, Inc. Training, 2005.</li>
-<li>Theraplay Institute Training, Introductory MIM and Theraplay, 2004.</li>
-</ul>
-</div>
-</div>
-</div>
+<p>###Statistical software expertise<br />
+* SPSS<br />
+* R<br />
+* MedCalc<br />
+* SmartPLS<br />
+* Lisrel</p>
+<p>###Training Courses Attended * NIH Perspectives on Peer Review (ENAR, 2017)<br />
+* Applied Longitudinal Analysis (American Statistical Association, 2016)<br />
+* Modeling Ordinal Categorical Responses, Examples Using R (American Statistical Association, 2016)<br />
+* Regression Modeling Strategies Short Course (Vanderbilt University May, 2016) * Analysis of Clinical Trials: Theory and Application (American Statistical Association, 2014). * Genomic Clinical Trials and Predictive Medicine (American Statistical Association, 2014). * Comprehensive PLS Path Modeling Course, April-May 2011. * Adult Attachment Interview Training/Scoring Institute, 2007 (reliability check complete January, 2009). * Crisis Prevention Institute Training, 2005. * Neuroscience, Inc. Training, 2005. * Theraplay Institute Training, Introductory MIM and Theraplay, 2004.</p>
 
 
 
@@ -528,6 +574,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
